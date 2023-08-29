@@ -5,4 +5,5 @@ import (
 )
 func Escrever() {
 	fmt.Println("Escreendo no pacote auxiliar.")
+	escrever2()
 }
